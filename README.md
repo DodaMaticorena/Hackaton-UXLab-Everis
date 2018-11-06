@@ -42,9 +42,13 @@ Se realizó benchmark de algunos websites como Hire by Google, Navent, Workbeat,
 
 #### **Affinity Map**
 
+Entrevisté con mi equipo a algunas personas que trabajan en procesos de selección para diversos fines. Con las conclusiones de esas entrevistas, se pudo realizar un affinity map que permita obtener qué temas y detalles son más importantes y necesarios.
+
 ![Affinity map](img/affinitymap.jpg)
 
 #### **Mapa del proceso de reclutamiento**
+
+Con el mapa del proceso se puede visualizar el flujo que siguen durante un reclutamiento, y ayudó a establecer los datos que se requieren para la solución.
 
 ![Proceso de reclutamiento](img/mapaproceso.jpg)
 
@@ -52,14 +56,18 @@ Se realizó benchmark de algunos websites como Hire by Google, Navent, Workbeat,
 
 Luego de analizar el proceso de reclutamiento de Everis y tener más claras las necesidades, se realizó algunos sketches para visualizar la solución. Luego se diseñó el prototipo de alta fidelidad.
 
-[Ingresa al prototipo interactivo](https://www.figma.com/proto/cFjFIoP5xgPPzq1Hqs4nf6Xi/Reto-Everis-Hackaton?node-id=2%3A3&scaling=min-zoom)
+[Ingresa al prototipo interactivo](https://www.figma.com/proto/Iw25o0iUyViMmFoeMAVKp9/Hackaton-Laboratoria-Everis?node-id=0%3A1&scaling=contain)
 
 ![Prototipo de alta fidelidad](img/prototipo.jpg)
 
-#### **Testing**
+#### **Testings**
 
-Se realizaron testings de la primera versión con algunas personas que forman parte del público objetivo ideal. 
+Se realizaron testings de la primera versión del prototipo a personas encargadas de procesos de selección. Como conclusión se obtuvo que para publicar una oferta de trabajo se debe automatizar la mayor parte posible. Tener plantillas de la descripción y otra información, especialmente si son ofertas que se han hecho antes, en ese caso incluso las pruebas tendrían que estar preseleccionadas, ya que el sistema debe guardar esos datos. 
 
+También se obtuvo que al final de publicar una oferta, las personas testeadas preferían un mensaje confirmando la publicación y también un resumen de ella. 
 
+De la misma manera, hubo una preferencia por ver primero en qué etapa se encontraban los postulantes, y en segunda instancia ver un resumen general. Además, resultó importante saber si los postulantes eran referidos por trabajadores o contactos, no era primordial que se muestre de dónde habían postulado, solamente saber si los referían, ya que al ser recomendados daba más seguridad.
+
+Para los usuarios testeados, no les parecía muy importante medir la experiencia por años, sino que preferían verla por proyectos, por eso el CV les resultó una buena herramienta. También querían ver detalles como quién los había entrevistado o evaluado. Les pareció muy bien implementar los comentarios que puedan hacer los reclutadores sobre el postulante, para saber cómo va.
 
 
